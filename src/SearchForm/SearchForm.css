@@ -1,0 +1,15 @@
+.search-name {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+button {
+  margin: 10px 10px 10px 10px;
+}
+input {
+  height: 3vmin;
+  margin: 10px 10px 10px 10px;
+  background-color: white;
+  border-color: black;
+  color: black;
+}
